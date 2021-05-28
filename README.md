@@ -1,4 +1,4 @@
-# Anomaly-correlation-sytem
+# Anomaly-correlation-system
 Anomaly correlation system for a dynamic risk management environment 
 
 The dynamic risk management in cybersecurity allows operators to have an adequate and dynamically updated cybersecurity awareness level based on changes in the organization’s environment. To achieve this, the system must be able to collect all the variations in a risk management environment (actives and threat variations) to assess the associated risk dynamically.
